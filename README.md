@@ -52,6 +52,7 @@ Notes on the results:
 
 - **Dataset:** *Image Dataset of Oil Palm Leaf Diseases* (Rahmanto & Arrahimi), Mendeley Data, DOI [10.17632/cp65skff89.1](https://data.mendeley.com/datasets/cp65skff89). Cropped leaf images from plantations in Tanah Laut, Indonesia, labeled healthy or diseased by domain experts.
 - 1,583 images: 899 diseased and 684 healthy, grouped in 18 cartons.
+- **License:** CC BY 4.0 (as stated on the dataset page). Credit: Oky Rahmanto and Ahmad Rusadi Arrahimi.
 - Split by carton: train 908, validation 347, test 328.
 - The dataset is **not included** in this repository. Please refer to the dataset page for its license terms and cite the authors when using it.
 
