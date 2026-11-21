@@ -229,3 +229,4 @@ models/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !models/.gitkeep
+!models/baseline_efficientnet_b0.pt
